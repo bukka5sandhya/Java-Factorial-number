@@ -1,0 +1,6 @@
+Write a Java program to calculate a Factorial of a number.
+
+Factorial of a number is the product of all the positive numbers less than or equal to the number. 
+The factorial of a number n is denoted by n!
+
+Now, let’s write a program and find factorial of a number using recursion.
